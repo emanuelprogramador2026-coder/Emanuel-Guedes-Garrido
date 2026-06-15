@@ -16,7 +16,6 @@ Sou apaixonado por tecnologia e estou em constante aprendizagem. Procuro evoluir
             src="" 
         /> 
     </a> 
-
     <a href=""> 
         <img  
             alt=""  
@@ -25,7 +24,7 @@ Sou apaixonado por tecnologia e estou em constante aprendizagem. Procuro evoluir
         /> 
     </a>  
 
-    <a href="https://github.com/emanuelprogramador2026-coder?tab=repositories&sort=stargazers"> 
+ <a href="https://github.com/emanuelprogramador2026-coder?tab=repositories&sort=stargazers"> 
         <img  
             alt="Total de estrelas"  
             title="Total de estrelas GitHub"  
@@ -33,7 +32,7 @@ Sou apaixonado por tecnologia e estou em constante aprendizagem. Procuro evoluir
         /> 
     </a> 
 
-    <a href="https://github.com/emanuelprogramador2026-coder?tab=followers"> 
+  <a href="https://github.com/emanuelprogramador2026-coder?tab=followers"> 
         <img  
             alt="Seguidores"  
             title="Me siga no GitHub"  
@@ -43,35 +42,24 @@ Sou apaixonado por tecnologia e estou em constante aprendizagem. Procuro evoluir
 
 </p> 
 
- 
-
---- 
-
- 
 
 ### 🤖 Linguagens e Tecnologias 
 
- 
-
 <img  
-
     align="left"  
 
-    alt="HTML" 
+   alt="HTML" 
 
-    title="HTML"  
+ title="HTML"  
 
-    width="30px"  
+ width="30px"  
 
     style="padding-right: 10px;"  
 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"  
-
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
 /> 
-
-<img  
-
-    align="left"  
+<img
+align="left"  
 
     alt="CSS"  
 
@@ -81,12 +69,9 @@ Sou apaixonado por tecnologia e estou em constante aprendizagem. Procuro evoluir
 
     style="padding-right: 10px;"  
 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"  
-
-/> 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" /> 
 
 <img  
-
     align="left"  
 
     alt="JavaScript"  
@@ -97,9 +82,7 @@ Sou apaixonado por tecnologia e estou em constante aprendizagem. Procuro evoluir
 
     style="padding-right: 10px;"  
 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"  
-
-/> 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /> 
 
 <img  
 
@@ -316,9 +299,5 @@ Sou apaixonado por tecnologia e estou em constante aprendizagem. Procuro evoluir
       height="200"  
 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanuelprogramador2026-coder&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"  
-
   /> 
-
- 
-
 </p>
