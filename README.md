@@ -3,10 +3,6 @@
 
 **Programador Júnior em formação**
 
-<p align="center">
-  <img src="./programador-github.svg" alt="Boneco programador" width="420"/>
-</p>
-
 Chamo-me Emanuel Guedes Garrido, tenho 31 anos e sou natural de Benguela, Angola.  
 Sou Licenciado em Língua Inglesa e tenho formação técnica na área de Programação. Atualmente, estou a estudar **Programação e Desenvolvimento de Sistemas Informáticos**, desenvolvendo competências em lógica de programação, desenvolvimento web, bases de dados e criação de aplicações.
 
@@ -127,16 +123,6 @@ Estou disponível para oportunidades de estágio, colaboração e trabalho na á
 
 ---
 
-### 🚀 Objetivos profissionais
-
-- Evoluir como Programador Júnior
-- Criar projetos reais para o meu portfólio
-- Melhorar as minhas competências em desenvolvimento web e software
-- Trabalhar em equipa e aprender com profissionais experientes
-- Contribuir para soluções digitais úteis e bem organizadas
-
----
-
 ### 📊 Estatísticas
 
 <p>
@@ -156,3 +142,4 @@ Estou disponível para oportunidades de estágio, colaboração e trabalho na á
   />
 </p>
 ```
+
