@@ -31,7 +31,7 @@ Estou disponível para oportunidades de estágio, colaboração e trabalho na á
 
 ## 🤖 Linguagens e Tecnologias
 
-<img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg](https://www.linkedin.com/in/emanuel-garrido-983099194/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3B2LqVrnLFScav77MrXIdnFg%3D%3D)" />
 
 <img align="left" alt="CSS" title="CSS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 
