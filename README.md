@@ -14,7 +14,8 @@ Estou disponível para oportunidades de estágio, colaboração e trabalho na á
 
 <br clear="right"/>
 
----
+
+<img align="right" height="150" src="https://media.giphy.com/media/hZZTInOfWPKT3Aa9H2/giphy.gif" alt="Boneco animado" />
 
 <p align="left">
     <a href="https://github.com/Emanuel-Guedes-Garrido">
