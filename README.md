@@ -24,7 +24,6 @@ Estou disponível para oportunidades de estágio, colaboração e trabalho na á
     </a>
 </p>
 
----
 
 ### 🤖 Linguagens e Tecnologias
 
@@ -112,7 +111,7 @@ Estou disponível para oportunidades de estágio, colaboração e trabalho na á
 <br/>
 <br/>
 
----
+
 
 ### 📚 Atualmente estou a estudar
 
@@ -123,7 +122,7 @@ Estou disponível para oportunidades de estágio, colaboração e trabalho na á
 - Git e GitHub
 - Desenvolvimento de projetos práticos
 
----
+
 
 ### 📊 Estatísticas
 
@@ -143,5 +142,5 @@ Estou disponível para oportunidades de estágio, colaboração e trabalho na á
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emanuel-Guedes-Garrido&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
   />
 </p>
-```
+
 
