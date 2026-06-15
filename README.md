@@ -9,9 +9,10 @@ Sou Licenciado em Língua Inglesa e tenho formação técnica na área de Progra
 Sou apaixonado por tecnologia e estou em constante aprendizagem. Procuro evoluir como **Programador Júnior**, criando projetos práticos e partilhando a minha evolução profissional através do LinkedIn e do GitHub.
 
 Estou disponível para oportunidades de estágio, colaboração e trabalho na área de programação.
+
 <img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGEzdWw1cWdyZmhpbWJyazhndG5jeDB5d3QxdnZlMWt0NzFoeWdjdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hZZTInOfWPKT3Aa9H2/giphy.gif" />
 
----
+###
 
 <p align="left">
     <a href="https://github.com/Emanuel-Guedes-Garrido">
