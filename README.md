@@ -1,4 +1,4 @@
-```markdown
+
 # 👨‍💻 Emanuel Guedes Garrido
 
 **Programador Júnior em formação**
